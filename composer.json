@@ -1,0 +1,14 @@
+{
+    "name": "puleeno-ng/pmpaypress-momo-gateway",
+    "description": "MoMo payment method for PayPress system",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Puleeno Ng.",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "require": {
+        "puleeno-ng/paypress": "*"
+    }
+}
