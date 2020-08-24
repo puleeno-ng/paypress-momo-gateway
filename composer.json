@@ -1,5 +1,5 @@
 {
-    "name": "puleeno-ng/pmpaypress-momo-gateway",
+    "name": "puleeno-ng/paypress-momo-gateway",
     "description": "MoMo payment method for PayPress system",
     "minimum-stability": "dev",
     "authors": [
