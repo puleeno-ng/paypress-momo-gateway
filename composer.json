@@ -1,5 +1,5 @@
 {
-    "name": "puleeno-ng/paypress-momo-gateway",
+    "name": "puleeno/paypress-momo-gateway",
     "description": "MoMo payment method for PayPress system",
     "minimum-stability": "dev",
     "license": "GPL-2.0-or-later",
