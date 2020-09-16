@@ -10,6 +10,6 @@
         }
     ],
     "require": {
-        "puleeno-ng/paypress": "*"
+        "puleeno/paypress": "*"
     }
 }
