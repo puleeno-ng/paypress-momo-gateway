@@ -1,6 +1,6 @@
 {
-    "name": "puleeno/paypress-momo-gateway",
-    "description": "MoMo payment method for PayPress system",
+    "name": "puleeno/pomnipay-momo-gateway",
+    "description": "MoMo payment method for Pomnipay payment gateway",
     "minimum-stability": "dev",
     "license": "GPL-2.0-or-later",
     "authors": [
@@ -10,6 +10,6 @@
         }
     ],
     "require": {
-        "puleeno/paypress": "*"
+        "puleeno/pomnipay": "*"
     }
 }
